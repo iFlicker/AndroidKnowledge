@@ -8,7 +8,10 @@
 - 当正文需要延伸阅读时，可以链接到本目录中的参考入口。
 
 ## 当前参考
-- 
+
+### `AndroidGuide/`
+- 这是来源于leavesCZY开源的参考资料仓库，链接：https://github.com/leavesCZY/AndroidGuide。
+- 其中包含 Handler、View、Fragment、协程、集合、多线程、字节码插桩等长篇文章。
 
 
 ## 后续可补充类型
