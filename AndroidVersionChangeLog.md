@@ -154,7 +154,7 @@
   - 登录体系逐步评估 Credential Manager / Passkey。
 - 关联文档：
   - [前台服务](docs/5.Android/5.1.基础/5.1.2.四大组件/5.1.2.2.Service/5.1.2.2.2.前台服务.md)
-  - [权限申请](docs/5.Android/5.1.基础/5.1.5.数据存储与权限/5.1.5.6.权限申请.md)
+  - [权限申请](docs/5.Android/5.1.基础/5.1.5.数据存储与权限/5.1.5.5.权限.md)
   - [应用安全基础](docs/5.Android/5.7.安全/5.7.1.应用安全基础.md)
 - 官方资料：
   - [Android 14 features and APIs overview](https://developer.android.com/about/versions/14/features)
@@ -180,7 +180,7 @@
   - 访问媒体资源时同时判断系统版本和 `targetSdkVersion`。
   - 能用 Photo Picker 的地方优先用 Photo Picker。
 - 关联文档：
-  - [权限申请](docs/5.Android/5.1.基础/5.1.5.数据存储与权限/5.1.5.6.权限申请.md)
+  - [权限申请](docs/5.Android/5.1.基础/5.1.5.数据存储与权限/5.1.5.5.权限.md)
   - [隐私合规](docs/5.Android/5.7.安全/5.7.4.隐私合规.md)
 - 官方资料：
   - [Android 13 features and APIs overview](https://developer.android.com/about/versions/13/features)
@@ -229,7 +229,7 @@
   - 所有带 `intent-filter` 的组件显式检查导出属性。
 - 关联文档：
   - [四大组件](docs/5.Android/5.1.基础/5.1.2.四大组件.md)
-  - [权限申请](docs/5.Android/5.1.基础/5.1.5.数据存储与权限/5.1.5.6.权限申请.md)
+  - [权限申请](docs/5.Android/5.1.基础/5.1.5.数据存储与权限/5.1.5.5.权限.md)
   - [启动优化 SplashScreen](docs/5.Android/5.4.性能优化/5.4.1.启动优化/5.4.1.5.SplashScreen.md)
 - 官方资料：
   - [Android 12 features and APIs overview](https://developer.android.com/about/versions/12/features)
@@ -255,8 +255,8 @@
   - 所有外部存储访问改为 MediaStore、SAF 或应用专属目录。
   - 权限申请结果不能假设用户一旦授权就永远有效。
 - 关联文档：
-  - [文件存储](docs/5.Android/5.1.基础/5.1.5.数据存储与权限/5.1.5.5.文件存储.md)
-  - [权限申请](docs/5.Android/5.1.基础/5.1.5.数据存储与权限/5.1.5.6.权限申请.md)
+  - [文件存储](docs/5.Android/5.1.基础/5.1.5.数据存储与权限/5.1.5.4.文件存储.md)
+  - [权限申请](docs/5.Android/5.1.基础/5.1.5.数据存储与权限/5.1.5.5.权限.md)
 - 官方资料：
   - [Android 11 overview](https://developer.android.com/about/versions/11)
   - [API diff: API 29 -> API 30](https://developer.android.com/sdk/api_diff/30/changes/packages_index)
@@ -281,7 +281,7 @@
   - 相册、下载、导出文件、日志保存路径全部梳理。
   - 深色模式检查图片、文字、主题色、WebView。
 - 关联文档：
-  - [文件存储](docs/5.Android/5.1.基础/5.1.5.数据存储与权限/5.1.5.5.文件存储.md)
+  - [文件存储](docs/5.Android/5.1.基础/5.1.5.数据存储与权限/5.1.5.4.文件存储.md)
   - [Window](docs/5.Android/5.2.进阶/5.2.4.Window与输入事件/5.2.4.1.Window.md)
 - 官方资料：
   - [Android 10 overview](https://developer.android.com/about/versions/10)
@@ -387,7 +387,7 @@
   - 权限按业务场景延迟申请，并处理拒绝、永久拒绝、降级能力。
   - 定时任务结合 Doze 规则设计，必要时用高优先级推送或白名单申请。
 - 关联文档：
-  - [权限申请](docs/5.Android/5.1.基础/5.1.5.数据存储与权限/5.1.5.6.权限申请.md)
+  - [权限申请](docs/5.Android/5.1.基础/5.1.5.数据存储与权限/5.1.5.5.权限.md)
   - [密钥管理](docs/5.Android/5.7.安全/5.7.2.网络与数据安全/5.7.2.4.密钥管理.md)
 - 官方资料：
   - [Android 6.0 APIs overview](https://developer.android.com/about/versions/marshmallow/android-6.0)
@@ -491,7 +491,7 @@
   - 使用系统分享、联系人、日历 API 代替私有数据访问。
 - 关联文档：
   - [自定义 View](docs/5.Android/5.1.基础/5.1.4.UI体系与资源/5.1.4.2.自定义View.md)
-  - [draw](docs/5.Android/5.2.进阶/5.2.3.View体系与渲染/5.2.3.3.draw.md)
+  - [View 体系与渲染概述](docs/5.Android/5.2.进阶/5.2.3.View体系与渲染/5.2.3.0.View体系与渲染概述.md)
 - 官方资料：
   - [Android 4.0 APIs](https://developer.android.com/about/versions/android-4.0)
 

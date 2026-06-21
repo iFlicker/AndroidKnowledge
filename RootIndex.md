@@ -25,10 +25,6 @@ Android 学习所需的通用计算机底座，覆盖网络、操作系统、数
 - [1.3 数据结构与算法](docs/1.计算机基础/1.3.数据结构与算法.md)：沉淀源码阅读、性能优化和面试中常用的数据结构、算法与复杂度分析。
   - [1.3.1 数据结构](docs/1.计算机基础/1.3.数据结构与算法/1.3.1.数据结构.md)：整理 数据结构 相关知识点。
   - [1.3.2 算法](docs/1.计算机基础/1.3.数据结构与算法/1.3.2.算法.md)：整理 算法 相关知识点。
-- [1.4 数据库](docs/1.计算机基础/1.4.数据库.md)：覆盖关系模型、事务、索引、SQL、SQLite 与 Android 本地持久化基础。
-  - [1.4.1 数据库基础](docs/1.计算机基础/1.4.数据库/1.4.1.数据库基础.md)：整理 数据库基础 相关知识点。
-  - [1.4.2 索引与查询](docs/1.计算机基础/1.4.数据库/1.4.2.索引与查询.md)：整理 索引与查询 相关知识点。
-  - [1.4.3 Android数据库](docs/1.计算机基础/1.4.数据库/1.4.3.Android数据库.md)：整理 Android数据库 相关知识点。
 
 ### [2 JVM](docs/2.JVM.md)
 从 Java 虚拟机到 Android Runtime，串联字节码、类加载、内存模型、GC 与运行时优化。
@@ -130,12 +126,12 @@ Android 学习所需的通用计算机底座，覆盖网络、操作系统、数
   - [5.7.3 逆向与加固](docs/5.Android/5.7.安全/5.7.3.逆向与加固.md)：整理 逆向与加固 相关知识点。
   - [5.7.4 隐私合规](docs/5.Android/5.7.安全/5.7.4.隐私合规.md)：整理 隐私合规 相关知识点。
   - [5.7.5 系统安全机制](docs/5.Android/5.7.安全/5.7.5.系统安全机制.md)：整理 系统安全机制 相关知识点。
-- [5.8 跨端(Flutter/KMP)](docs/5.Android/5.8.跨端(Flutter-KMP).md)：整理 跨端(Flutter/KMP) 相关知识点。
-  - [5.8.1 Flutter](docs/5.Android/5.8.跨端(Flutter-KMP)/5.8.1.Flutter.md)：整理 Flutter 相关知识点。
-  - [5.8.2 KotlinMultiplatform](docs/5.Android/5.8.跨端(Flutter-KMP)/5.8.2.KotlinMultiplatform.md)：整理 KotlinMultiplatform 相关知识点。
-  - [5.8.3 ReactNative](docs/5.Android/5.8.跨端(Flutter-KMP)/5.8.3.ReactNative.md)：整理 ReactNative 相关知识点。
-  - [5.8.4 H5与小程序容器](docs/5.Android/5.8.跨端(Flutter-KMP)/5.8.4.H5与小程序容器.md)：整理 H5与小程序容器 相关知识点。
-  - [5.8.5 跨端架构治理](docs/5.Android/5.8.跨端(Flutter-KMP)/5.8.5.跨端架构治理.md)：整理 跨端架构治理 相关知识点。
+- [5.8 跨端(Flutter-KMP)](<docs/5.Android/5.8.跨端(Flutter-KMP).md>)：整理 跨端(Flutter-KMP) 相关知识点。
+  - [5.8.1 Flutter](<docs/5.Android/5.8.跨端(Flutter-KMP)/5.8.1.Flutter.md>)：整理 Flutter 相关知识点。
+  - [5.8.2 KotlinMultiplatform](<docs/5.Android/5.8.跨端(Flutter-KMP)/5.8.2.KotlinMultiplatform.md>)：整理 KotlinMultiplatform 相关知识点。
+  - [5.8.3 ReactNative](<docs/5.Android/5.8.跨端(Flutter-KMP)/5.8.3.ReactNative.md>)：整理 ReactNative 相关知识点。
+  - [5.8.4 H5与小程序容器](<docs/5.Android/5.8.跨端(Flutter-KMP)/5.8.4.H5与小程序容器.md>)：整理 H5与小程序容器 相关知识点。
+  - [5.8.5 跨端架构治理](<docs/5.Android/5.8.跨端(Flutter-KMP)/5.8.5.跨端架构治理.md>)：整理 跨端架构治理 相关知识点。
 
 ### [6 问答](docs/6.问答.md)
 沉淀面试题、场景题、排障案例和知识卡片，作为检索与复习入口。
