@@ -325,6 +325,7 @@
   - Project Treble 将平台框架与厂商实现解耦，改善系统升级链路。
 - API 变化：
   - `startForegroundService()`、通知渠道、Autofill、PIP、TextView autosizing、Downloadable Fonts、Neural Networks API。
+  - NDK 引入 `AHardwareBuffer` (API 26) 与 `SharedMemory`，用于跨进程/跨 API 的底层硬件零拷贝缓冲共享。
   - 8.1 增强 NNAPI、SharedMemory、WallpaperColors、Autofill 改进。
 - 兼容变化：
   - 后台服务、隐式广播、后台定位旧写法要迁移。
